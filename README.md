@@ -4,7 +4,7 @@ This project is for predicting student dropout in 3 degree (ADM, ARQ, and CSI) a
 
 ### How to cite this work?
 
-Waiting for the upcoming reference.
+Waiting for the upcoming reference from ITS 2022.
 
 ### Imported Libraries
 The scripts of projects are all based in Python 3.8 and anaconda package manager. The external dependencies are as following:
