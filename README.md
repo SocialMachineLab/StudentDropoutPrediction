@@ -38,3 +38,5 @@ The scripts of projects are all based in Python 3.8 and anaconda package manager
 ### Running project
 
 ***Directly Run `xx_dataloader.py, xx=ADM,ARQ, or CSI`*** to get the result of preprocessing, feature selection and training and test.
+
+### How to cite this work?
