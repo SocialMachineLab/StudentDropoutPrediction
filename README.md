@@ -4,7 +4,7 @@ This project is for predicting student dropout in 3 degree (ADM, ARQ, and CSI) a
 
 ### How to cite this work?
 
-Waiting for the upcoming reference from ITS 2022.
+Cheng, Y., Pereira Nunes, B., Manrique, R. (2022). Not Another Hardcoded Solution to the Student Dropout Prediction Problem: A Novel Approach Using Genetic Algorithms for Feature Selection. In: Crossley, S., Popescu, E. (eds) Intelligent Tutoring Systems. ITS 2022. Lecture Notes in Computer Science, vol 13284. Springer, Cham. https://doi.org/10.1007/978-3-031-09680-8_23
 
 ### Imported Libraries
 The scripts of projects are all based in Python 3.8 and anaconda package manager. The external dependencies are as following:
